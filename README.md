@@ -12,7 +12,7 @@
 ##### H5
 ###### H6
 
-Alternatively, for H1 and H2, an underline-ish style:
+Alternative, pour H1 and H2 :
 
 Alt-H1
 ======
@@ -28,7 +28,7 @@ Alt-H2
 ##### H5
 ###### H6
 
-Alternatively, for H1 and H2, an underline-ish style:
+Alternative, pour H1 and H2 :
 
 Alt-H1
 ======
@@ -84,3 +84,33 @@ Some text to show that the reference links can follow later.
 [arbitrary case-insensitive reference text]: https://www.mozilla.org
 [1]: http://slashdot.org
 [link text itself]: http://www.reddit.com
+
+## Listes
+```
+- Liste 1 
+- Liste 2
+- Liste 3
+
++ Liste 1 
++ Liste 2
++ Liste 3
+
+* Liste 1 
+* Liste 2
+* Liste 3
+
+1.  Numéro 1
+2.  Numéro 2
+3.  Numéro 3
+L'ordre des numéros de la liste importe peu, il sera toujours dans l'ordre.
+
+```
+- Liste 1 
+- Liste 2
+- Liste 3
+
+1.  Numéro 1
+2.  Numéro 2
+3.  Numéro 3
+
+
