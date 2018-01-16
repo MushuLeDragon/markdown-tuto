@@ -1,5 +1,5 @@
-# MarkdownTuto
-# List of differents Markdowns
+# Liste des Markdowns
+
 [Source : GitHub Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ## Headers
@@ -40,9 +40,9 @@ Alt-H2
 
 ## Liens 
 ```
-[I'm an inline-style link](https://www.google.com)
+[Lien http](https://www.google.com)
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+[Lien http avec titre](https://www.google.com "Google's Homepage")
 
 [I'm a reference-style link][Arbitrary case-insensitive reference text]
 
@@ -63,9 +63,9 @@ Some text to show that the reference links can follow later.
 [link text itself]: http://www.reddit.com
 ```
 
-[I'm an inline-style link](https://www.google.com)
+[Lien http](https://www.google.com)
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+[Lien http avec titre](https://www.google.com "Google's Homepage")
 
 [I'm a reference-style link][Arbitrary case-insensitive reference text]
 
