@@ -87,9 +87,9 @@ Some text to show that the reference links can follow later.
 
 ## Listes
 ```
-- Liste 1          + Liste 1          * Liste 1 
-- Liste 2    ou    + Liste 2    ou    * Liste 2
-- Liste 3          + Liste 3          * Liste 3
+- Liste 1              + Liste 1              * Liste 1 
+- Liste 2      ou      + Liste 2      ou      * Liste 2
+- Liste 3              + Liste 3              * Liste 3
 
 1.  Numéro 1
 2.  Numéro 2
