@@ -36,7 +36,46 @@ Alt-H1
 Alt-H2
 ------
 
-## ...
+## Accentuation
+```
+Accentuation Italique : *asterisks* or _underscores_.
+
+Accentuation Gras : **asterisks** or __underscores__.
+
+Accentuation Combinée : **asterisks and _underscores_**.
+
+Accentuation Barrée avec deux tildes : ~~Scratch this.~~
+```
+
+Accentuation Italique : *asterisks* or _underscores_.
+
+Accentuation Gras : **asterisks** or __underscores__.
+
+Accentuation Combinée : **asterisks and _underscores_**.
+
+Accentuation Barrée avec deux tildes : ~~Scratch this.~~
+
+
+## Listes
+```
+- Liste 1              + Liste 1              * Liste 1 
+- Liste 2      ou      + Liste 2      ou      * Liste 2
+- Liste 3              + Liste 3              * Liste 3
+
+1.  Numéro 1
+2.  Numéro 2
+3.  Numéro 3
+L'ordre des numéros de la liste importe peu, il sera toujours dans l'ordre.
+
+```
+- Liste 1 
+- Liste 2
+- Liste 3
+
+1.  Numéro 1
+2.  Numéro 2
+3.  Numéro 3
+
 
 ## Liens 
 ```
@@ -85,24 +124,12 @@ Some text to show that the reference links can follow later.
 [1]: http://slashdot.org
 [link text itself]: http://www.reddit.com
 
-## Listes
-```
-- Liste 1              + Liste 1              * Liste 1 
-- Liste 2      ou      + Liste 2      ou      * Liste 2
-- Liste 3              + Liste 3              * Liste 3
 
-1.  Numéro 1
-2.  Numéro 2
-3.  Numéro 3
-L'ordre des numéros de la liste importe peu, il sera toujours dans l'ordre.
-
-```
-- Liste 1 
-- Liste 2
-- Liste 3
-
-1.  Numéro 1
-2.  Numéro 2
-3.  Numéro 3
-
-
+## Images
+## Code and Syntax Highlighting
+## Tables
+## Blockquotes
+## Inline HTML
+## Horizontal Rule
+## Line Breaks
+## YouTube Videos
