@@ -130,7 +130,7 @@ Some text to show that the reference links can follow later.
 ![Image](http://url/a.png)
 ```
 
-![Image](http://url/a.png)
+![MushuLeDragon](https://avatars2.githubusercontent.com/u/22367990?s=460&v=4)
 
 
 ## Code and Syntax Highlighting
@@ -138,14 +138,10 @@ Some text to show that the reference links can follow later.
 ## Blockquotes
 
 ```
-> Blockquote 1
-> Blockquote 2
-> Blockquote 3
+> Blockquote 
 ```
 
-> Blockquote 1
-> Blockquote 2
-> Blockquote 3
+> Blockquote 
 
 
 ## Inline HTML
