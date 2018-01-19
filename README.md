@@ -126,10 +126,38 @@ Some text to show that the reference links can follow later.
 
 
 ## Images
+```
+![Image](http://url/a.png)
+```
+
+![Image](http://url/a.png)
+
+
 ## Code and Syntax Highlighting
 ## Tables
 ## Blockquotes
+
+```
+> Blockquote 1
+> Blockquote 2
+> Blockquote 3
+```
+
+> Blockquote 1
+> Blockquote 2
+> Blockquote 3
+
+
 ## Inline HTML
 ## Horizontal Rule
+
+```
+Horizontal Rule         or         Horizontal Rule
+---                                ***
+```
+
+Horizontal Rule
+---
+
 ## Line Breaks
 ## YouTube Videos
