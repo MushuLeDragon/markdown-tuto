@@ -145,6 +145,15 @@ Some text to show that the reference links can follow later.
 
 
 ## Inline code
+
+```
+Code dans une ligne : `Inline Code`
+```
+
+
+Code dans une ligne : `Inline Code`
+
+
 ## Inline HTML
 ## Horizontal Rule
 
