@@ -130,7 +130,7 @@ Some text to show that the reference links can follow later.
 ![Image](http://url/a.png "MushuLeDragon")
 ```
 
-![MushuLeDragon](https://avatars2.githubusercontent.com/u/22367990?s=460&v=4)
+![MushuLeDragon](https://avatars2.githubusercontent.com/u/22367990?s=460&v=4 "MushuLeDragon")
 
 
 ## Code and Syntax Highlighting
