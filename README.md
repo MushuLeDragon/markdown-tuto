@@ -145,15 +145,6 @@ Some text to show that the reference links can follow later.
 
 
 ## Inline code
-```
-  ```
-  Code que je veux mettre dans le fenêtre
-  ```
-```
-
-```
-Code que je veux mettre dans le fenêtre
-```
 ## Inline HTML
 ## Horizontal Rule
 
