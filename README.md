@@ -1,7 +1,5 @@
 # Liste des Markdowns
 
-[Source : GitHub Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-
 ## Titres
 
 ```
@@ -170,4 +168,6 @@ Horizontal Rule
 
 
 
+---
+[Source : GitHub Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 ###### *Edited by [MushuLeDragon](https://github.com/MushuLeDragon)*
