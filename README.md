@@ -56,7 +56,7 @@ Accentuation Barrée avec deux tildes : ~~Scratch this.~~
 
 ## Listes
 
-__/!\ Attention les sous-listes ordonnées ont 3 espaces de tabulation /!\__
+__-- /!\ Attention les sous-listes ordonnées ont 3 espaces de tabulation /!\ --__
 
 ```
 - Liste 1                  + Liste 1                  * Liste 1
