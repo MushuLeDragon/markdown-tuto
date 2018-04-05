@@ -55,6 +55,9 @@ Accentuation Barrée avec deux tildes : ~~Scratch this.~~
 
 
 ## Listes
+
+__/!\ Attention les sous-listes ordonnées ont 3 espaces de tabulation /!\__
+
 ```
 - Liste 1                  + Liste 1                  * Liste 1
   - Liste 1i                 + Liste 1i                 * Liste 1i
@@ -72,8 +75,8 @@ Accentuation Barrée avec deux tildes : ~~Scratch this.~~
      2. Sous-sous-numéro 2ib
 3. Numéro 3
 L'ordre des numéros de la liste importe peu, il sera toujours dans l'ordre.
-
 ```
+
 - Liste 1 
   - Liste 1i
     - Liste 1ia
@@ -86,8 +89,8 @@ L'ordre des numéros de la liste importe peu, il sera toujours dans l'ordre.
 2. Numéro 2
    1. Sous-numéro 2i
    2. Sous-numéro 2i
-     1. Sous-sous-numéro 2ia
-     2. Sous-sous-numéro 2ib
+      1. Sous-sous-numéro 2ia
+      2. Sous-sous-numéro 2ib
 3. Numéro 3
 
 ## Liste de tâches
