@@ -72,17 +72,32 @@ L'ordre des numéros de la liste importe peu, il sera toujours dans l'ordre.
 ```
 - Liste 1 
   - Liste 1a
+    - Liste 1ai
   - Liste 1b
 - Liste 2
 - Liste 3
 
 1.  Numéro 1
-  i. Numéro 1a
-  ii. Numéro 1b
 2.  Numéro 2
+   1. Numéro 2a
+   2. Numéro 2b
 3.  Numéro 3
 
-## Liste des tâches
+---
+
+1. For this
+   1. do this
+      1. then this
+      2. then this
+   2. do this too
+2. Test 2
+3. Test 3 
+   1. Test 3.1
+   2. Test 3.2
+      1. Test 3.2.1
+      2. Test 3.2.2
+
+## Liste de tâches
 
 ```
 - [x] @mentions, #references, [liens](), **accentuation** et <del>tags</del> supporté
