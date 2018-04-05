@@ -56,46 +56,39 @@ Accentuation Barrée avec deux tildes : ~~Scratch this.~~
 
 ## Listes
 ```
-- Liste 1              + Liste 1              * Liste 1
-  - Liste 1a             + Liste 1a             * Liste 1a
-  - Liste 1b   ou        + Liste 1b   ou        * Liste 1b
-- Liste 2              + Liste 2              * Liste 2
-- Liste 3              + Liste 3              * Liste 3
+- Liste 1                  + Liste 1                  * Liste 1
+  - Liste 1i                 + Liste 1i                 * Liste 1i
+    - Liste 1ia                + Liste 1ia                * Liste 1ia
+    - Liste 1ib      ou        + Liste 1ib      ou        * Liste 1ib
+  - Liste 1ii                + Liste 1ii                * Liste 1ii
+- Liste 2                  + Liste 2                  * Liste 2
+- Liste 3                  + Liste 3                  * Liste 3
 
-1.  Numéro 1
-  1. Numéro 1a
-  2. Numéro 1b
-2.  Numéro 2
-3.  Numéro 3
+1. Numéro 1
+2. Numéro 2
+   1. Sous-numéro 2i
+   2. Sous-numéro 2i
+     1. Sous-sous-numéro 2ia
+     2. Sous-sous-numéro 2ib
+3. Numéro 3
 L'ordre des numéros de la liste importe peu, il sera toujours dans l'ordre.
 
 ```
 - Liste 1 
-  - Liste 1a
-    - Liste 1ai
-  - Liste 1b
+  - Liste 1i
+    - Liste 1ia
+    - Liste 1ib
+  - Liste 1ii
 - Liste 2
 - Liste 3
 
-1.  Numéro 1
-2.  Numéro 2
-   1. Numéro 2a
-   2. Numéro 2b
-3.  Numéro 3
-
----
-
-1. For this
-   1. do this
-      1. then this
-      2. then this
-   2. do this too
-2. Test 2
-3. Test 3 
-   1. Test 3.1
-   2. Test 3.2
-      1. Test 3.2.1
-      2. Test 3.2.2
+1. Numéro 1
+2. Numéro 2
+   1. Sous-numéro 2i
+   2. Sous-numéro 2i
+     1. Sous-sous-numéro 2ia
+     2. Sous-sous-numéro 2ib
+3. Numéro 3
 
 ## Liste de tâches
 
