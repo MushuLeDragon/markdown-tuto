@@ -56,24 +56,45 @@ Accentuation Barrée avec deux tildes : ~~Scratch this.~~
 
 ## Listes
 ```
-- Liste 1              + Liste 1              * Liste 1 
-- Liste 2      ou      + Liste 2      ou      * Liste 2
+- Liste 1              + Liste 1              * Liste 1
+  - Liste 1a             + Liste 1a             * Liste 1a
+  - Liste 1b   ou        + Liste 1b   ou        * Liste 1b
+- Liste 2              + Liste 2              * Liste 2
 - Liste 3              + Liste 3              * Liste 3
 
 1.  Numéro 1
+  1. Numéro 1a
+  2. Numéro 1b
 2.  Numéro 2
 3.  Numéro 3
 L'ordre des numéros de la liste importe peu, il sera toujours dans l'ordre.
 
 ```
 - Liste 1 
+  - Liste 1a
+  - Liste 1b
 - Liste 2
 - Liste 3
 
 1.  Numéro 1
+  i. Numéro 1a
+  ii. Numéro 1b
 2.  Numéro 2
 3.  Numéro 3
 
+## Liste des tâches
+
+```
+- [x] @mentions, #references, [liens](), **accentuation** et <del>tags</del> supporté
+- [x] syntaxe des listes requise (toute sorte de liste supportée : ordonnée et non-ordonnée)
+- [x] tâche terminée
+- [ ] tâche incomplète
+```
+
+- [x] @mentions, #references, [liens](), **accentuation** et <del>tags</del> supporté
+- [x] syntaxe des listes requise (toute sorte de liste supportée : ordonnée et non-ordonnée)
+- [x] tâche terminée
+- [ ] tâche incomplète
 
 ## Liens 
 ```
