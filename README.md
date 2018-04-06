@@ -113,13 +113,13 @@ L'ordre des numéros de la liste importe peu, il sera toujours dans l'ordre.
 
 [Lien http avec titre](https://www.google.com "Google's Homepage")
 
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
+[Lien http avec le style "référence"][Texte de référence pour le lien]
 
 [I'm a relative reference to a repository file](../blob/master/LICENSE)
 
-[You can use numbers for reference-style link definitions][1]
+[On peut utiliser des nombres comme style de "référence"][1]
 
-Or leave it empty and use the [link text itself].
+Ou laisser vide et utiliser le [lien texte lui-même].
 
 URLs and URLs in angle brackets will automatically get turned into links. 
 http://www.example.com or <http://www.example.com> and sometimes 
@@ -127,22 +127,22 @@ example.com (but not on Github, for example).
 
 Some text to show that the reference links can follow later.
 
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
+[Texte de référence pour le lien]: https://www.mozilla.org
 [1]: http://slashdot.org
-[link text itself]: http://www.reddit.com
+[lien texte lui-même]: http://www.reddit.com
 ```
 
 [Lien http](https://www.google.com)
 
 [Lien http avec titre](https://www.google.com "Google's Homepage")
 
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
+[Lien http avec le style "référence"][Texte de référence pour le lien]
 
 [I'm a relative reference to a repository file](../blob/master/LICENSE)
 
-[You can use numbers for reference-style link definitions][1]
+[On peut utiliser des nombres comme style de "référence"][1]
 
-Or leave it empty and use the [link text itself].
+Ou laisser vide et utiliser le [lien texte lui-même].
 
 URLs and URLs in angle brackets will automatically get turned into links. 
 http://www.example.com or <http://www.example.com> and sometimes 
@@ -150,9 +150,9 @@ example.com (but not on Github, for example).
 
 Some text to show that the reference links can follow later.
 
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
+[Texte de référence pour le lien]: https://www.mozilla.org
 [1]: http://slashdot.org
-[link text itself]: http://www.reddit.com
+[lien texte lui-même]: http://www.reddit.com
 
 
 ## Images
