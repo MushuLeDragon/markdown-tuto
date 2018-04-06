@@ -117,7 +117,7 @@ L'ordre des numéros de la liste importe peu, il sera toujours dans l'ordre.
 
 [I'm a relative reference to a repository file](../blob/master/LICENSE)
 
-[On peut utiliser des nombres comme style de "référence" et un titre aussi][1]
+[On peut utiliser des nombres comme style de "référence" ainsi qu'un titre][1]
 
 Ou laisser vide et utiliser le [lien texte lui-même].
 
@@ -140,7 +140,7 @@ Some text to show that the reference links can follow later.
 
 [I'm a relative reference to a repository file](../blob/master/LICENSE)
 
-[On peut utiliser des nombres comme style de "référence" et un titre aussi][1]
+[On peut utiliser des nombres comme style de "référence" ainsi qu'un titre][1]
 
 Ou laisser vide et utiliser le [lien texte lui-même].
 
