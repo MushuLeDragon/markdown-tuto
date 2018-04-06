@@ -117,7 +117,7 @@ L'ordre des numéros de la liste importe peu, il sera toujours dans l'ordre.
 
 [I'm a relative reference to a repository file](../blob/master/LICENSE)
 
-[On peut utiliser des nombres comme style de "référence"][1]
+[On peut utiliser des nombres comme style de "référence" et un titre aussi][1]
 
 Ou laisser vide et utiliser le [lien texte lui-même].
 
@@ -128,7 +128,7 @@ example.com (but not on Github, for example).
 Some text to show that the reference links can follow later.
 
 [Texte de référence pour le lien]: https://www.mozilla.org
-[1]: http://slashdot.org
+[1]: https://github.com/MushuLeDragon "MushuLeDragon"
 [lien texte lui-même]: http://www.reddit.com
 ```
 
@@ -140,7 +140,7 @@ Some text to show that the reference links can follow later.
 
 [I'm a relative reference to a repository file](../blob/master/LICENSE)
 
-[On peut utiliser des nombres comme style de "référence"][1]
+[On peut utiliser des nombres comme style de "référence" et un titre aussi][1]
 
 Ou laisser vide et utiliser le [lien texte lui-même].
 
@@ -151,7 +151,7 @@ example.com (but not on Github, for example).
 Some text to show that the reference links can follow later.
 
 [Texte de référence pour le lien]: https://www.mozilla.org
-[1]: http://slashdot.org
+[1]: https://github.com/MushuLeDragon "MushuLeDragon"
 [lien texte lui-même]: http://www.reddit.com
 
 
