@@ -164,7 +164,45 @@ Some text to show that the reference links can follow later.
 
 
 ## Code and Syntax Highlighting
+
 ## Tables
+
+Les tables ne font pas partie de la spécification __Markdowns__ principale mais ils font partie de __GitHub Flavored Markdown (GFM)__ et __Markdown Here__ les prend en charge.
+
+```
+Les deux-points (:) peuvent être utilisés pour aligner les colonnes.
+
+| Un  | Tablal        | Des              | Tableaux |
+|-----| ------------- |:----------------:| --------:|
+| la  | col 3 e       | alignée à droite |    3800€ |
+| la  | col 2 est     | centrée          |      24€ |
+| X   | zebra stripes | are neat         |       2€ |
+
+Il doit y avoir au moins 3 tirets qui séparent chaque cellule d'en-tête.
+Les pipes (|) sont optionnels et pas besoin d'aligner les Mardowns proprement. Les autres Markdowns peuvent être utilisés dans les tableaux.
+
+Markdown | moins | beau
+--- | --- | ---
+_toujours_ | `affiché` | __proprement__
+1 | 2 | 3
+```
+
+Les deux-points (:) peuvent être utilisés pour aligner les colonnes.
+
+| Un  | Tablal        | Des              | Tableaux |
+|-----| ------------- |:----------------:| --------:|
+| la  | col 3 e       | alignée à droite |    3800€ |
+| la  | col 2 est     | centrée          |      24€ |
+| X   | zebra stripes | are neat         |       2€ |
+
+Il doit y avoir au moins 3 tirets qui séparent chaque cellule d'en-tête.
+Les pipes (|) sont optionnels et pas besoin d'aligner les Mardowns proprement. Les autres Markdowns peuvent être utilisés dans les tableaux.
+
+Markdown | moins | beau
+--- | --- | ---
+_toujours_ | `affiché` | __proprement__
+1 | 2 | 3
+
 ## Blockquotes
 
 ```
