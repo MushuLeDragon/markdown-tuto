@@ -4,6 +4,7 @@
 
 - [Titres](http://github.com/MushuLeDragon/markdown-tuto#titres)
 - [Accentuation](http://github.com/MushuLeDragon/markdown-tuto#accentuation)
+- [Retour à la ligne](http://github.com/MushuLeDragon/markdown-tuto#retour-à-la-ligne)
 - [Listes](http://github.com/MushuLeDragon/markdown-tuto#listes)
 - [Liste de tâches](http://github.com/MushuLeDragon/markdown-tuto#liste-de-tâches)
 - [Liens](http://github.com/MushuLeDragon/markdown-tuto#liens)
@@ -70,6 +71,41 @@ Accentuation Combinée : **asterisks and _underscores_**.
 
 Accentuation Barrée avec deux tildes : ~~Scratch this.~~
 
+## Retour à la ligne
+
+```
+Écrire du texte (retour à la ligne)
+sans le séparer par un espace (retour à la ligne)
+le rédige sur une seule ligne.
+
+---
+
+Il faut laisser un espace entre les lignes (2 retours à la ligne)
+
+pour l'écrire sur plusieurs lignes
+
+---
+
+Si on veut écrire du texte sur plusieurs lignes sans laisser d'interligne entre elles (mais à la ligne),  
+Il faut laisser en fin de ligne 2 espaces (  ).  
+Ca créé des paragraphes sans interlignes.
+```
+
+Écrire du texte (retour à la ligne)
+sans le séparer par un espace (retour à la ligne)
+le rédige sur une seule ligne.
+
+---
+
+Il faut laisser un espace entre les lignes (2 retours à la ligne)
+
+pour l'écrire sur plusieurs lignes
+
+---
+
+Si on veut écrire du texte sur plusieurs lignes sans laisser d'espace entre elles,  
+Il faut laisser en fin de ligne 2 espaces (  ).  
+Ca créé des paragraphes sans interlignes.
 
 ## Listes
 
