@@ -60,7 +60,7 @@ Accentuation Gras : **asterisks** or __underscores__.
 
 Accentuation Combinée : **asterisks and _underscores_**.
 
-Accentuation Barrée avec deux tildes : ~~Scratch this.~~
+Accentuation Barrée avec deux tildes : ~~Rature moi.~~
 ```
 
 Accentuation Italique : *asterisks* or _underscores_.
@@ -69,7 +69,7 @@ Accentuation Gras : **asterisks** or __underscores__.
 
 Accentuation Combinée : **asterisks and _underscores_**.
 
-Accentuation Barrée avec deux tildes : ~~Scratch this.~~
+Accentuation Barrée avec deux tildes : ~~Rature moi.~~
 
 ## Retour à la ligne
 
@@ -124,8 +124,8 @@ __-- /!\ Attention les sous-listes ordonnées ont 3 espaces de tabulation /!\ --
 2. Numéro 2
    1. Sous-numéro 2i
    2. Sous-numéro 2i
-     1. Sous-sous-numéro 2ia
-     2. Sous-sous-numéro 2ib
+      1. Sous-sous-numéro 2ia
+      2. Sous-sous-numéro 2ib
 3. Numéro 3
 L'ordre des numéros de la liste importe peu, il sera toujours dans l'ordre.
 ```
@@ -292,5 +292,5 @@ Horizontal Rule
 
 
 ---
+
 [Source : GitHub Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-###### *Edited by [MushuLeDragon](https://github.com/MushuLeDragon)*
