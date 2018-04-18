@@ -1,5 +1,7 @@
 # Liste des Markdowns
 
+A regarder : [autre repo markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
+
 ## Summary
 
 - [Titres](http://github.com/MushuLeDragon/markdown-tuto#titres)
@@ -61,6 +63,10 @@ Accentuation Gras : **asterisks** or __underscores__.
 Accentuation Combinée : **asterisks and _underscores_**.
 
 Accentuation Barrée avec deux tildes : ~~Rature moi.~~
+
+Centrer du texte :
+
+<p align="center">Texte centré</p>
 ```
 
 Accentuation Italique : *asterisks* or _underscores_.
@@ -70,6 +76,10 @@ Accentuation Gras : **asterisks** or __underscores__.
 Accentuation Combinée : **asterisks and _underscores_**.
 
 Accentuation Barrée avec deux tildes : ~~Rature moi.~~
+
+
+
+<p align="center">Centrer du texte fonctionne aussi</p>
 
 ## Retour à la ligne
 
@@ -225,11 +235,13 @@ Les tables ne font pas partie de la spécification __Markdowns__ principale mais
 ```
 Les deux-points (:) peuvent être utilisés pour aligner les colonnes.
 
-| Un  | Tablal        | Des              | Tableaux |
-|-----| ------------- |:----------------:| --------:|
-| la  | col 3 e       | alignée à droite |    3800€ |
-| la  | col 2 est     | centrée          |      24€ |
-| X   | zebra stripes | are neat         |       2€ |
+| Un  | Tablal        | Des              | Tableaux   |
+|-----| :------------ |:----------------:| ----------:|
+| la  | colonne 1 est | alignée à gauche | par défaut |
+| la  | colonne 2 est | alignée à gauche |      3800€ |
+| la  | colonne 3 est | centrée          |      1600€ |
+| la  | colonne 4 est | alignée à droite |        24€ |
+| X   | zebra stripes | are neat         |         2€ |
 
 Il doit y avoir au moins 3 tirets qui séparent chaque cellule d'en-tête.
 Les pipes (|) sont optionnels et pas besoin d'aligner les Mardowns proprement. Les autres Markdowns peuvent être utilisés dans les tableaux.
