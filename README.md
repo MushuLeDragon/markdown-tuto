@@ -1,6 +1,8 @@
 # Liste des Markdowns
 
-A regarder : [autre repo markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
+A regarder : 
+- [repo markdown à check](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
+- [ponctuation en anglais (listes)](http://www.plainenglish.co.uk/punctuating-bulleted-lists.html)
 
 ## Summary
 
