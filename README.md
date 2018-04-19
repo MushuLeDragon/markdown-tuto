@@ -235,10 +235,6 @@ Depuis une URL :
 Depuis un dossier source :
 ![MushuLeDragon](.\files\Mushu.png "MushuLeDragon")
 
-Modifier la taille de l'image __(seulement depuis les images hébergées dans le projet)__ :
-
-![MushuLeDragon](.\files\Mushu.png =100x100 "MushuLeDragon")
-
 ## Code and Syntax Highlighting
 
 ## Tableaux
