@@ -220,9 +220,16 @@ Some text to show that the reference links can follow later.
 ## Images
 ```
 ![Image](http://url/a.png "MushuLeDragon")
+
+Modifier la taille : 
+![Image](http://url/a.png =100x100 "MushuLeDragon")
 ```
 
 ![MushuLeDragon](https://avatars2.githubusercontent.com/u/22367990?s=460&v=4 "MushuLeDragon")
+
+Modifier la taille :
+
+![MushuLeDragon](https://avatars2.githubusercontent.com/u/22367990?s=460&v=4 =100x100)
 
 
 ## Code and Syntax Highlighting
