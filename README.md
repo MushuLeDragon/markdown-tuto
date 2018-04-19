@@ -223,17 +223,14 @@ Depuis une URL :
 ![MonImage](http://url/a.png "MushuLeDragon")
 
 Depuis un dossier source :
-![MonImage](.\chemin\du\dossier\MonFichier.png "MushuLeDragon")
-
-Modifier la taille de l'image : /!\ Seulement depuis les images hébergées dans le projet /!\
-![MonImage](.\chemin\du\dossier\MonFichier.png "MushuLeDragon" =100x100)
+![MonImage](./chemin/du/dossier/MonFichier.png "MushuLeDragon")
 ```
 
 Depuis une URL :
 ![MushuLeDragon](https://avatars2.githubusercontent.com/u/22367990?s=460&v=4 "MushuLeDragon")
 
 Depuis un dossier source :
-![MushuLeDragon](.\files\Mushu.png "MushuLeDragon")
+![MushuLeDragon](./files/Mushu.png "MushuLeDragon")
 
 ## Code and Syntax Highlighting
 
@@ -318,5 +315,6 @@ Horizontal Rule
 
 - [repo markdown à check](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
 - [ponctuation en anglais (listes)](http://www.plainenglish.co.uk/punctuating-bulleted-lists.html)
+- [redimentionner une mimage host sur le README](https://stackoverflow.com/questions/14675913/changing-image-size-in-markdown)
 
 [Source : GitHub Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
