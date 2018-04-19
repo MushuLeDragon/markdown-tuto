@@ -6,7 +6,7 @@ A regarder :
 
 ## Summary
 
-- [Titres](http://github.com/MushuLeDragon/markdown-tuto#titres)
+- [Titres](#titres)
 - [Accentuation](http://github.com/MushuLeDragon/markdown-tuto#accentuation)
 - [Retour à la ligne](http://github.com/MushuLeDragon/markdown-tuto#retour-à-la-ligne)
 - [Listes](http://github.com/MushuLeDragon/markdown-tuto#listes)
