@@ -1,9 +1,5 @@
 # Liste des Markdowns
 
-A regarder : 
-- [repo markdown à check](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
-- [ponctuation en anglais (listes)](http://www.plainenglish.co.uk/punctuating-bulleted-lists.html)
-
 ## Summary
 
 - [Titres](#titres)
@@ -21,6 +17,7 @@ A regarder :
 - [Horizontal Rule](#horizontal-rule)
 - [Line Breaks](#line-breaks)
 - [YouTube Videos](#youtube-videos)
+- [A regarder](#a-regarder)
 
 ## Titres
 
@@ -306,5 +303,10 @@ Horizontal Rule
 
 
 ---
+
+## A regarder
+
+- [repo markdown à check](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
+- [ponctuation en anglais (listes)](http://www.plainenglish.co.uk/punctuating-bulleted-lists.html)
 
 [Source : GitHub Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
