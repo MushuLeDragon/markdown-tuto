@@ -220,16 +220,20 @@ Some text to show that the reference links can follow later.
 ## Images
 ```
 Depuis une URL :
+
 ![MonImage](http://url/a.png "MushuLeDragon")
 
 Depuis un dossier source :
+
 ![MonImage](./chemin/du/dossier/MonFichier.png "MushuLeDragon")
 ```
 
 Depuis une URL :
+
 ![MushuLeDragon](https://avatars2.githubusercontent.com/u/22367990?s=460&v=4 "MushuLeDragon")
 
 Depuis un dossier source :
+
 ![MushuLeDragon](./files/Mushu.png "MushuLeDragon")
 
 ## Code and Syntax Highlighting
