@@ -219,18 +219,25 @@ Some text to show that the reference links can follow later.
 
 ## Images
 ```
-![Image](http://url/a.png "MushuLeDragon")
+Depuis une URL :
+![MonImage](http://url/a.png "MushuLeDragon")
 
-Modifier la taille : 
-![Image](http://url/a.png =100x100 "MushuLeDragon")
+Depuis un dossier source :
+![MonImage](.\chemin\du\dossier\MonFichier.png "MushuLeDragon")
+
+Modifier la taille de l'image : /!\ Seulement depuis les images hébergées dans le projet /!\
+![MonImage](.\chemin\du\dossier\MonFichier.png "MushuLeDragon" =100x100)
 ```
 
+Depuis une URL :
 ![MushuLeDragon](https://avatars2.githubusercontent.com/u/22367990?s=460&v=4 "MushuLeDragon")
 
-Modifier la taille :
+Depuis un dossier source :
+![MushuLeDragon](.\files\Mushu.png "MushuLeDragon")
 
-![MushuLeDragon](https://avatars2.githubusercontent.com/u/22367990?s=460&v=4 =100x100)
+Modifier la taille de l'image __(seulement depuis les images hébergées dans le projet)__ :
 
+![MushuLeDragon](.\files\Mushu.png =100x100 "MushuLeDragon")
 
 ## Code and Syntax Highlighting
 
