@@ -238,6 +238,8 @@ Depuis un dossier source :
 
 ## Code and Syntax Highlighting
 
+Voici la liste des langages reconnus par GitHub : [Languages YAML](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml)
+
 ## Tableaux
 
 Les tables ne font pas partie de la spécification __Markdowns__ principale mais ils font partie de __GitHub Flavored Markdown (GFM)__ et __Markdown Here__ les prend en charge.
@@ -320,5 +322,7 @@ Horizontal Rule
 - [repo markdown à check](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
 - [ponctuation en anglais (listes)](http://www.plainenglish.co.uk/punctuating-bulleted-lists.html)
 - [redimentionner une mimage host sur le README](https://stackoverflow.com/questions/14675913/changing-image-size-in-markdown)
+- [Aide GitHub](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
+- [Les Markdowns par GitHub](https://guides.github.com/features/mastering-markdown/)
 
 [Source : GitHub Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
